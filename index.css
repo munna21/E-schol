@@ -121,6 +121,8 @@ span{
             position: relative;
             left:150px;
         }
+        #bonus{font-size: 20px;}
+        #bonus:hover{transition: 10s;color:orangered;font-size: 40px;}
 
 
     /* site footer area */
@@ -130,6 +132,7 @@ span{
              height:100%
              
             }
+
 
 
 .row h5{
@@ -150,6 +153,8 @@ span{
              font-size: 20px;
            
     }
+
+    section{height:400px}
 
 
 
