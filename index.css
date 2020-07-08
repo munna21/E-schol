@@ -32,10 +32,10 @@
     height:100%;
     width:100%;
     margin-bottom:90px;
-    margin-top{20px}
+    margin-top:20px;
 }
 
-.text-formet{margin-left: 40px;}
+.text-formet{margin-left:40px;}
 
 .secendary-btn{
     background: rgb(4, 83, 4);
@@ -89,10 +89,10 @@ span{
  
 
 .card-img-top{
-    width:320px;
-     margin-left: 14px;
-     margin-top: 10px;}
-
+    width:100%;
+    
+    }
+     
 .card-footer{
     
         height:50px;
@@ -102,7 +102,7 @@ span{
 
 .icon-img{
     height:20px;
-     margin-right: 20px;
+     margin-right:20px;
     }
 
     /* Testimonial area*/
